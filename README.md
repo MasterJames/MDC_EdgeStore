@@ -1,26 +1,3 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.416 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Thu Apr 13 2023 00:28:25 GMT-0700 (PDT)
-* Source doc: MDC_EdgeStore_README-md
------>
-
-
-
 # **MDC_EdgeStore**
 
 This Blender Addon will allow you to store and restore the Edge Selection for each object. 
