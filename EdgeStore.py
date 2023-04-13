@@ -119,6 +119,8 @@ def saveSetObjEdges(sav = True, ctx = bpy.context, selEdgz = None, atvEdg = None
             else:
                 for ob in bpy.context.selected_objects:
                     ob.select_set(False)
+                for fac in msh.faces:
+                    fac.select = False
                 for (idx, edg) in enumerate(edgz):
                     if((idx in selEdgz) == True):
                         if(edg.select == False):
@@ -129,7 +131,6 @@ def saveSetObjEdges(sav = True, ctx = bpy.context, selEdgz = None, atvEdg = None
                     if(atvEdg == idx):
                         msh.select_history.add(edg)
                 print(obj.name, "Set Selected Edges:", selEdgz, "Active:", atvEdg)
-
             bmesh.update_edit_mesh(obj.data)
             if(objz.active != strActv):
                 objz.active = strActv
