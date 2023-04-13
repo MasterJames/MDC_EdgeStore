@@ -48,9 +48,9 @@ This functionality is supposed to be available in an upcoming update and should 
 ### 
 **Installing**
 
-* From the Blender Market for donations if useful to you
-* You can also download from this github repository to try it.
-* The release section will have a proper zip file which you can add through the Preferences of Blender.
+* From the Blender Market for donations if useful to you (once accepted)
+* You can also download from this github repository to try it
+* The release section will have a proper zip file which you can add through the Preferences of Blender
 * Install Blender addon through Preferences via this [V1.0 release link](https://github.com/MasterJames/MDC_EdgeStore/releases/download/v1.0/MDC_EdgeStore.zip)
 
 
