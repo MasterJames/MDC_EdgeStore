@@ -25,9 +25,8 @@ class ES_OT_edgestoresave(bpy.types.Operator):
 class ES_OT_edgestoreset(bpy.types.Operator):
     bl_label = 'Set/Restore'
     bl_idname = 'object.edge_store_set'
-    #bl_category = 'Edge Store'
     bl_space_type = 'VIEW_3D'
-    #bl_options = set(('REGISTER', 'UNDO'))
+    bl_options = set(('REGISTER', 'UNDO'))
     bl_region_type = 'TOOLS'
 
     def draw(slf, ctx):
