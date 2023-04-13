@@ -37,6 +37,8 @@ This functionality is supposed to be available in an upcoming update and should 
 ## 
 **Getting Started**
 
+Install Blender addon through Preferences via this [V1.0 release link](https://github.com/MasterJames/MDC_EdgeStore/releases/download/v1.0/MDC_EdgeStore.zip)
+
 
 ### 
 **Dependencies**
