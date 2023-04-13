@@ -44,7 +44,7 @@ This functionality is supposed to be available in an upcoming update and should 
 
 
 * Blender Version 3.5.0
-* ex. Windows 10
+
 
 ### 
 **Installing**
